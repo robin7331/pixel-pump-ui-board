@@ -1069,6 +1069,11 @@
       (net 1 "GND") (pinfunction "MP1") (tstamp 6371071e-6329-4577-a6ab-f1ba0bf1ef7e))
     (pad "MP2" smd rect (at 7.650002 -1.174999) (locked) (size 2.100001 2.799999) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pinfunction "MP2") (tstamp c19e0cc8-6112-4cbd-8a12-34898d6491ec))
+    (model "/Users/robin/Documents/Projects/Sucker One/Electronics/Conn_Molex_52271-1079/step/522711079.stp"
+      (offset (xyz 0 0 3))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 180))
+    )
   )
 
   (footprint "TestPoint:TestPoint_Pad_D1.5mm" (layer "B.Cu")
