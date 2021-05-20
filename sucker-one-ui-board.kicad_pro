@@ -401,6 +401,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -415,6 +416,13 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -424,7 +432,7 @@
   },
   "sheets": [
     [
-      "0df355a0-9c95-44f1-9ee4-00c91cddf3bc",
+      "df8a1914-9189-46ad-945f-f5d14b2f9b2b",
       ""
     ]
   ],

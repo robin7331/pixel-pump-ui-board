@@ -1,4 +1,4 @@
-19405639714645181
+19499790892084209
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -7829,6 +7829,13 @@ Connector_BarrelJack
 BarrelJack_CUI_PJ-102AH_Horizontal
 Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
 Power Jack
+0
+3
+3
+Connector_BarrelJack
+BarrelJack_GCT_DCJ200-10-A_Horizontal
+Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf
+connector barrel jack
 0
 3
 3
@@ -44919,6 +44926,13 @@ usb usb-c 2.0 pd
 20
 17
 Connector_USB
+USB_C_Receptacle_JAE_DX07S016JA1R1500
+USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780
+USB C Type-C Receptacle SMD USB 2.0
+0
+22
+17
+Connector_USB
 USB_C_Receptacle_JAE_DX07S024WJ1R350
 http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
 USB C Type-C Receptacle SMD
@@ -62258,6 +62272,13 @@ HVQFN NoLead
 21
 17
 Package_DFN_QFN
+HVQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
+HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVQFN NoLead
+0
+34
+25
+Package_DFN_QFN
 HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
 HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 HVQFN NoLead
@@ -62418,6 +62439,20 @@ MLPQ- 0.65
 0
 21
 17
+Package_DFN_QFN
+Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm
+Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Micrel MLF NoLead
+0
+11
+9
+Package_DFN_QFN
+Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm_ThermalVias
+Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Micrel MLF NoLead
+0
+16
+9
 Package_DFN_QFN
 Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias
 http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf
@@ -75319,6 +75354,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+Relay_SMD
+Relay_2P2T_10x6mm_TE_IMxxG
+Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
+TE IM-Series Relay DPDT Form C
+0
+8
+8
 Relay_SMD
 Relay_DPDT_AXICOM_IMSeries_JLeg
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
