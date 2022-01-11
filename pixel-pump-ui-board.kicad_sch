@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Pixel Pump UI Board")
+    (date "2022-01-11")
+    (rev "3")
+  )
+
   (lib_symbols
     (symbol "BM10B-SRSS-TB(LF)(SN):BM10B-SRSS-TB(LF)(SN)" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -5.08 16.002 0)

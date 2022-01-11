@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name "WS2812-2020")(type "Legacy")(uri "${KIPRJMOD}/WS2812-2020/WS2812-2020.lib")(options "")(descr ""))
-  (lib (name "MOLEX 10 Pin 1mm FFC con")(type "Legacy")(uri "/Users/robin/Documents/Projects/Sucker One/Electronics/Conn_Molex_52271-1079/eec.lib")(options "")(descr ""))
+  (lib (name "WS2812-2020")(type "Legacy")(uri "${KIPRJMOD}/components/WS2812-2020/WS2812-2020.lib")(options "")(descr ""))
   (lib (name "BM10B-SRSS-TB(LF)(SN)")(type "Legacy")(uri "${KIPRJMOD}/components/BM10B-SRSS-TB(LF)(SN)/BM10B-SRSS-TB(LF)(SN).lib")(options "")(descr ""))
 )
