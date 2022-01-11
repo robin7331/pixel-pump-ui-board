@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sucker-one-ui-board.kicad_pro",
+    "filename": "pixel-pump-ui-board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -388,8 +388,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "sucker-one-ui-board.step",
-      "vrml": "sucker-one-ui-board.wrl"
+      "step": "pixel-pump-ui-board.step",
+      "vrml": "pixel-pump-ui-board.wrl"
     },
     "page_layout_descr_file": ""
   },
