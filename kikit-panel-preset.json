@@ -1,0 +1,57 @@
+{
+  "layout": {
+    "type": "grid",
+    "rows": 2, 
+    "cols": 1,
+    "space": "2mm"
+  },
+  "source": {
+      "type": "auto",
+      "tolerance": "20mm"
+  },
+  "tabs": {
+    "type": "fixed",
+    "width": "4mm",
+    "vcount": 0,
+    "hcount": 3
+  },
+  "cuts": {
+    "type": "mousebites",
+    "drill": "0.5mm",
+    "spacing": "1mm",
+    "offset": "0.2mm",
+    "prolong": "0.5mm"
+},
+  "framing": {
+    "type": "frame",
+    "width": "5mm",
+    "space": "3mm",
+    "fillet": "0.5mm"
+  },
+  "fiducials": {
+    "type": "3fid",
+    "hoffset": "2.5mm",
+    "voffset": "5mm",
+    "coppersize": "2mm",
+    "opening": "1mm"
+  },
+  "tooling": {
+    "type": "4hole",
+    "size": "1.5mm",
+    "hoffset": "2.5mm",
+    "voffset": "2.5mm",
+    "paste": true
+  },
+  "text": {
+    "type": "simple",
+    "text": "Pixel Pump UI Board Rev 3",
+    "anchor": "mt", 
+    "voffset": "2.5mm",
+    "hjustify": "center",
+    "vjustify": "center"
+  },
+  "post": {
+    "millradius": "1mm",
+    "copperfill": true
+  }
+}
