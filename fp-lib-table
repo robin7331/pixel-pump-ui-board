@@ -2,4 +2,5 @@
   (lib (name "WS2812-2020")(type "KiCad")(uri "${KIPRJMOD}/WS2812-2020")(options "")(descr ""))
   (lib (name "Molex-52271-1079-*")(type "KiCad")(uri "/Users/robin/Documents/Projects/Sucker One/Electronics/Conn_Molex_52271-1079/eec.pretty")(options "")(descr ""))
   (lib (name "BM10B-SRSS-TB(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/components/BM10B-SRSS-TB(LF)(SN)")(options "")(descr ""))
+  (lib (name "kikit")(type "KiCad")(uri "${KIPRJMOD}/components/KiKit/kikit.pretty")(options "")(descr ""))
 )

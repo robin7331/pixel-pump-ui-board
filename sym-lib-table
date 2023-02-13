@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "WS2812-2020")(type "Legacy")(uri "${KIPRJMOD}/components/WS2812-2020/WS2812-2020.lib")(options "")(descr ""))
   (lib (name "BM10B-SRSS-TB(LF)(SN)")(type "Legacy")(uri "${KIPRJMOD}/components/BM10B-SRSS-TB(LF)(SN)/BM10B-SRSS-TB(LF)(SN).lib")(options "")(descr ""))
+  (lib (name "kikit")(type "KiCad")(uri "${KIPRJMOD}/components/KiKit/kikit.kicad_sym")(options "")(descr ""))
 )
