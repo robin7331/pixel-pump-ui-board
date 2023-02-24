@@ -1942,7 +1942,7 @@
     (uuid 4370c97a-e5e7-4207-a2ef-180e29cc325d)
     (property "Reference" "J1" (id 0) (at 39.7256 154.94 90))
     (property "Value" "SM10B-SRSS-TB" (id 1) (at 39.7256 157.48 90))
-    (property "Footprint" "Connector_JST:JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal" (id 2) (at 38.1 161.925 0)
+    (property "Footprint" "SM10B-SRSS-TB:SM10B-SRSS-TB" (id 2) (at 38.1 161.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 161.925 0)
@@ -3303,7 +3303,7 @@
       (reference "FID4") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.75mm_Mask1.5mm")
     )
     (path "/4370c97a-e5e7-4207-a2ef-180e29cc325d"
-      (reference "J1") (unit 1) (value "SM10B-SRSS-TB") (footprint "Connector_JST:JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "SM10B-SRSS-TB") (footprint "SM10B-SRSS-TB:SM10B-SRSS-TB")
     )
     (path "/4a7a146d-e7dd-4c7b-9d76-a5539b538c5b"
       (reference "SW1") (unit 1) (value "B3U-1000P") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")

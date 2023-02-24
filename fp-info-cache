@@ -1,57 +1,8 @@
-13398268441928
-Fiducial
-Fiducial_0.5mm_Mask1.5mm
-Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
-fiducial
+1677272240988
+SM10B-SRSS-TB
+SM10B-SRSS-TB
+JST SH series connector, SM10B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
 0
-1
-0
-Fiducial
-Fiducial_0.5mm_Mask1mm
-Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_0.75mm_Mask1.5mm
-Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_0.75mm_Mask2.25mm
-Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1.5mm_Mask3mm
-Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1.5mm_Mask4.5mm
-Circular Fiducial, 1.5mm bare copper, 4.5mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1mm_Mask2mm
-Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1mm_Mask3mm
-Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
-fiducial
-0
-1
-0
+12
+11

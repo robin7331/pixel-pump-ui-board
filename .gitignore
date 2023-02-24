@@ -27,6 +27,5 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 *.step
 pixel-pump-ui-board-backups/

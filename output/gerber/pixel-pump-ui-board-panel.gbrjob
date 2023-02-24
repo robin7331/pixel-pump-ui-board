@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.0-d3dd2cf0fa~116~ubuntu20.04.1"
     },
-    "CreationDate": "2023-02-13T12:44:03+00:00"
+    "CreationDate": "2023-02-24T21:00:07+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pixel-pump-ui-board-panel",
       "GUID": "70697865-6c2d-4707-956d-702d75692d62",
-      "Revision": "rev?"
+      "Revision": "6"
     },
     "Size": {
       "X": 153.3,
